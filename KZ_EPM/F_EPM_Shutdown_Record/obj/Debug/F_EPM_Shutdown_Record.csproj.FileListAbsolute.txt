@@ -1,0 +1,165 @@
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\F_EPM_Shutdown_Record.pdb
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\AutocompleteMenu.dll
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\MaterialSkin.dll
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\NewExportExcels.dll
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\SJeMES_Control_Library.dll
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\SJeMES_Framework.dll
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\FastReport.dll
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\FastReport.Bars.dll
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\NewExportExcels.xml
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\SJeMES_Framework.dll.config
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.MainForm.resources
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.Properties.Resources.resources
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.GenerateResource.cache
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.CoreCompileInputs.cache
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.CopyComplete
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.pdb
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\F_EPM_Shutdown_Record.dll.config
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\F_EPM_Shutdown_Record.dll
+C:\Users\zipeng-chen\Desktop\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\F_EPM_Shutdown_Record.dll.config
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\F_EPM_Shutdown_Record.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\F_EPM_Shutdown_Record.pdb
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\AutocompleteMenu.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\MaterialSkin.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\NewExportExcels.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\Newtonsoft.Json.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\SJeMES_Control_Library.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\SJeMES_Framework.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\FastReport.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\FastReport.Bars.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\NewExportExcels.xml
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\Newtonsoft.Json.xml
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\SJeMES_Framework.dll.config
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.AssemblyReference.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.MainForm.resources
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.Properties.Resources.resources
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.GenerateResource.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.CoreCompileInputs.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.CopyComplete
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.pdb
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.Properties.Resources.resources
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.GenerateResource.cache
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.CoreCompileInputs.cache
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.pdb
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\F_EPM_Shutdown_Record.pdb
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\Newtonsoft.Json.dll
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.CopyComplete
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.AssemblyReference.cache
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.Shutdown_RecordMainForm.resources
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\F_EPM_Shutdown_Record.exe.config
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\F_EPM_Shutdown_Record.exe
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.exe
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\F_EPM_Shutdown_Record.pdb
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\netstandard.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.AppContext.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Collections.Concurrent.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Collections.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Collections.NonGeneric.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Collections.Specialized.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.ComponentModel.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.ComponentModel.Primitives.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Console.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Data.Common.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Diagnostics.Contracts.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Diagnostics.Debug.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Diagnostics.Process.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Diagnostics.Tools.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Diagnostics.Tracing.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Drawing.Primitives.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Dynamic.Runtime.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Globalization.Calendars.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Globalization.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Globalization.Extensions.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.IO.Compression.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.IO.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.IO.FileSystem.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.IO.IsolatedStorage.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.IO.Pipes.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Linq.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Linq.Expressions.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Linq.Parallel.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Linq.Queryable.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Net.Http.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Net.NameResolution.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Net.NetworkInformation.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Net.Ping.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Net.Primitives.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Net.Requests.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Net.Security.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Net.Sockets.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Net.WebSockets.Client.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Net.WebSockets.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.ObjectModel.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Reflection.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Reflection.Extensions.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Reflection.Primitives.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Resources.Reader.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Resources.ResourceManager.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Resources.Writer.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Runtime.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Runtime.Extensions.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Runtime.Handles.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Runtime.InteropServices.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Runtime.Numerics.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Security.Claims.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Security.Principal.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Security.SecureString.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Text.Encoding.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Text.RegularExpressions.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Threading.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Threading.Overlapped.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Threading.Tasks.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Threading.Thread.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Threading.ThreadPool.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Threading.Timer.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.ValueTuple.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Xml.ReaderWriter.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Xml.XDocument.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Xml.XmlDocument.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Xml.XmlSerializer.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Xml.XPath.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\Newtonsoft.Json.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\SJeMES_Framework_NETCore.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\Newtonsoft.Json.xml
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.Shutdown_RecordMainForm.resources
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.Properties.Resources.resources
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.GenerateResource.cache
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.CoreCompileInputs.cache
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.CopyComplete
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.pdb
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.csproj.AssemblyReference.cache
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\F_EPM_Shutdown_Record.dll.config
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\bin\Debug\F_EPM_Shutdown_Record.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Shutdown_Record\obj\Debug\F_EPM_Shutdown_Record.dll

@@ -1,0 +1,38 @@
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\bin\Debug\F_TPM_KanBan001.pdb
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.csproj.AssemblyReference.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.Properties.Resources.resources
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.csproj.GenerateResource.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.csproj.CoreCompileInputs.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.pdb
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\bin\Debug\F_TPM_KanBan001.dll.config
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\bin\Debug\F_TPM_KanBan001.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\bin\Debug\SJeMES_Framework.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\bin\Debug\Newtonsoft.Json.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\bin\Debug\SJeMES_Framework.dll.config
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\bin\Debug\Newtonsoft.Json.xml
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.mainform.resources
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.csproj.CopyComplete
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.dll
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\bin\Debug\F_TPM_KanBan001.pdb
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.mainform.resources
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.Properties.Resources.resources
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.csproj.GenerateResource.cache
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.csproj.CoreCompileInputs.cache
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.csproj.CopyComplete
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.pdb
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.csproj.AssemblyReference.cache
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\bin\Debug\F_TPM_KanBan001.exe.config
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\bin\Debug\F_TPM_KanBan001.exe
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.exe
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\bin\Debug\Newtonsoft.Json.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\bin\Debug\F_TPM_KanBan001.pdb
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\bin\Debug\Newtonsoft.Json.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.mainform.resources
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.Properties.Resources.resources
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.csproj.GenerateResource.cache
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.csproj.CoreCompileInputs.cache
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.csproj.CopyComplete
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.pdb
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\bin\Debug\F_TPM_KanBan001.dll.config
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\bin\Debug\F_TPM_KanBan001.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_TPM_KanBan001\obj\Debug\F_TPM_KanBan001.dll

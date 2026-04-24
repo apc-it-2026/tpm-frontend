@@ -1,0 +1,62 @@
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\F_EPM_Base_List.pdb
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\AutocompleteMenu.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\MaterialSkin.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\NewExportExcels.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\Newtonsoft.Json.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\NewExportExcels.xml
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\Newtonsoft.Json.xml
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.AssemblyReference.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.Main_Form.resources
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.Properties.Resources.resources
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.GenerateResource.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.CoreCompileInputs.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.CopyComplete
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.pdb
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.devicetypeForm.resources
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\SJeMES_Framework.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\SJeMES_Framework.dll.config
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\SJeMES_Control_Library.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\FastReport.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\FastReport.Bars.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\F_EPM_Base_List.dll.config
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\bin\Debug\F_EPM_Base_List.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.dll
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\bin\Debug\F_EPM_Base_List.pdb
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\bin\Debug\Newtonsoft.Json.dll
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.devicetypeForm.resources
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.Main_Form.resources
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.Properties.Resources.resources
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.GenerateResource.cache
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.CoreCompileInputs.cache
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.CopyComplete
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.pdb
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\bin\Debug\F_EPM_Base_List.dll.config
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\bin\Debug\F_EPM_Base_List.dll
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.dll
+D:\TPM Source Code\TPM\F_EPM_Base_List\bin\Debug\F_EPM_Base_List.pdb
+D:\TPM Source Code\TPM\F_EPM_Base_List\bin\Debug\Newtonsoft.Json.dll
+D:\TPM Source Code\TPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.devicetypeForm.resources
+D:\TPM Source Code\TPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.Main_Form.resources
+D:\TPM Source Code\TPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.Properties.Resources.resources
+D:\TPM Source Code\TPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.GenerateResource.cache
+D:\TPM Source Code\TPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.CoreCompileInputs.cache
+D:\TPM Source Code\TPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.CopyComplete
+D:\TPM Source Code\TPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.pdb
+D:\TPM Source Code\TPM\F_EPM_Base_List\bin\Debug\Newtonsoft.Json.xml
+D:\TPM Source Code\TPM\F_EPM_Base_List\bin\Debug\F_EPM_Base_List.dll.config
+D:\TPM Source Code\TPM\F_EPM_Base_List\bin\Debug\F_EPM_Base_List.dll
+D:\TPM Source Code\TPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\bin\Debug\F_EPM_Base_List.pdb
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\bin\Debug\Newtonsoft.Json.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.devicetypeForm.resources
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.Main_Form.resources
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.Properties.Resources.resources
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.GenerateResource.cache
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.CoreCompileInputs.cache
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.CopyComplete
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.pdb
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\bin\Debug\Newtonsoft.Json.xml
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.csproj.AssemblyReference.cache
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\bin\Debug\F_EPM_Base_List.exe.config
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\bin\Debug\F_EPM_Base_List.exe
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_EPM_Base_List\obj\Debug\F_EPM_Base_List.exe

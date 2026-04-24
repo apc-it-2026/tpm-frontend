@@ -1,0 +1,69 @@
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.pdb
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\MaterialSkin.dll
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\Newtonsoft.Json.dll
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\SJeMES_Framework.dll
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\Newtonsoft.Json.xml
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\SJeMES_Framework.dll.config
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.Holiday_DateForm.resources
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.Properties.Resources.resources
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.GenerateResource.cache
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.CoreCompileInputs.cache
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.CopyComplete
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.pdb
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\SJeMES_Control_Library.dll
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.dll.config
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.dll
+D:\APEMES\source\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.pdb
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\Newtonsoft.Json.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\SJeMES_Control_Library.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\SJeMES_Framework.dll.config
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.AssemblyReference.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.Holiday_DateForm.resources
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.Properties.Resources.resources
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.GenerateResource.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.CoreCompileInputs.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.CopyComplete
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.pdb
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.exe.config
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.exe
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.SuggestedBindingRedirects.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.exe.config
+D:\APEMES1\APE_MES\Source\Client\KZ_SFC\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.exe
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.pdb
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\Newtonsoft.Json.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.AssemblyReference.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.Holiday_DateForm.resources
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.Properties.Resources.resources
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.GenerateResource.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.CoreCompileInputs.cache
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.CopyComplete
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.pdb
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.dll.config
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.dll
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\Newtonsoft.Json.xml
+D:\APEMES1\APE_MES\Source\Client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\SJeMES_Framework.dll.config
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.dll.config
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.dll
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.pdb
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\Newtonsoft.Json.dll
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.Holiday_DateForm.resources
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.Properties.Resources.resources
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.GenerateResource.cache
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.CoreCompileInputs.cache
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.CopyComplete
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.dll
+E:\SAP\MES\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.pdb
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.pdb
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\Newtonsoft.Json.dll
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.AssemblyReference.cache
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.Holiday_DateForm.resources
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.Properties.Resources.resources
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.GenerateResource.cache
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.CoreCompileInputs.cache
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.csproj.CopyComplete
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.pdb
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.exe.config
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\bin\Debug\F_SFC_Holiday_Date_Report.exe
+D:\TPM Source Code\TPM\source code-源代码\Code\client\KZ_EPM\F_SFC_Holiday_Date_Report\obj\Debug\F_SFC_Holiday_Date_Report.exe
